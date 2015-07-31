@@ -1,0 +1,24 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "budocf@rose-hulman.edu",
+    "longName": "Bomb Drop",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Bomb Drop",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "430c7326-62cb-44a7-9a91-21834b505c31",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
